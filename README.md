@@ -16,7 +16,7 @@ Welcome to my handwritten notes on **Data Structures and Algorithms** (DSA). The
 
 ---
 
-## 📥 Download Notes
+## 📥 View Notes
 All the notes are stored on **Google Drive**. Use the link below to access them:
 
 - **[Notes](https://drive.google.com/drive/folders/1kQ-fjHPYhMp4RcZWTXTZRvDilzDlEz73?usp=sharing)**  
